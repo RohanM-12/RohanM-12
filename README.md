@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanm-12&label=Profile%20views&color=0e75b6&style=flat" alt="rohanm-12" /> </p>
 
-- 🌱 I’m currently learning **React,NodeJs,MogoDb,Express**
-
+- 💻 Driven by the code, fueled by creativity; a web development enthusiast on a quest for digital excellence. 
+- 🌱 Building skill one line of code at a time : **React,NodeJs,MogoDb,Express**
 - 📫 How to reach me **rohanmali.2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
