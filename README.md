@@ -1,6 +1,6 @@
-# 💫 About Me:
+ <div align="center"> 
 💻 Driven by the code, fueled by creativity; a web development enthusiast on a quest for digital excellence.<br>🌱 Building skill one line of code at a time : React,NodeJs,MogoDb,Express<br>📫 How to reach me rohanmali.2002@gmail.com
-
+ </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-m1212) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rohan_M1212) 
@@ -24,10 +24,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RohanM-12&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=RohanM-12&icon=5&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
